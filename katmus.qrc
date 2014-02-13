@@ -1,0 +1,162 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/close.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/restzoom.png</file>
+        <file>images/welcome.jpg</file>
+        <file>images/expand.png</file>
+        <file>images/collapse.png</file>
+        <file>images/cancel.png</file>
+        <file>images/important.png</file>
+        <file>images/ok.png</file>
+        <file>images/no.png</file>
+        <file>images/undo.png</file>
+        <file>images/redo.png</file>
+        <file>images/locale.png</file>
+        <file>images/unknow.png</file>
+        <file>images/configure.png</file>
+        <file>images/piano.png</file>
+        <file>images/cursor.png</file>
+        <file>images/blackc.png</file>
+        <file>images/blancc.png</file>
+        <file>images/corchete8.png</file>
+        <file>images/corchete16.png</file>
+        <file>images/corchete32.png</file>
+        <file>images/corchete64.png</file>
+        <file>images/iconoRedonda.png</file>
+        <file>images/iconoBlanca.png</file>
+        <file>images/iconoNegra.png</file>
+        <file>images/iconoCorchea.png</file>
+        <file>images/iconoSemicorchea.png</file>
+        <file>images/iconoFusa.png</file>
+        <file>images/iconoSemifusa.png</file>
+        <file>images/cursorRedonda.png</file>
+        <file>images/cursorBlanca.png</file>
+        <file>images/cursorNegra.png</file>
+        <file>images/cursorCorchea.png</file>
+        <file>images/cursorSemicorchea.png</file>
+        <file>images/cursorFusa.png</file>
+        <file>images/cursorSemifusa.png</file>
+        <file>images/icursorCorchea.png</file>
+        <file>images/icursorSemicorchea.png</file>
+        <file>images/icursorFusa.png</file>
+        <file>images/icursorSemifusa.png</file>
+        <file>images/claveSol.png</file>
+        <file>images/claveFa.png</file>
+        <file>images/play.png</file>
+        <file>images/pause.png</file>
+        <file>images/stop.png</file>
+        <file>images/paste.png</file>
+        <file>images/cut.png</file>
+        <file>images/copy.png</file>
+        <file>images/exit.png</file>
+        <file>images/delete.png</file>
+        <file>images/metrica.png</file>
+        <file>images/newpro.png</file>
+        <file>images/wizard.png</file>
+        <file>images/run.png</file>
+        <file>images/wave.png</file>
+        <file>images/magic.png</file>
+        <file>images/magic1.png</file>
+        <file>images/magic2.png</file>
+        <file>images/mn_0.png</file>
+        <file>images/mn_1.png</file>
+        <file>images/mn_2.png</file>
+        <file>images/mn_3.png</file>
+        <file>images/mn_4.png</file>
+        <file>images/mn_5.png</file>
+        <file>images/mn_6.png</file>
+        <file>images/mn_7.png</file>
+        <file>images/mn_8.png</file>
+        <file>images/mn_9.png</file>
+        <file>images/iconproject.png</file>
+        <file>images/iconpent.png</file>
+        <file>images/iconcompas.png</file>
+        <file>images/s1.png</file>
+        <file>images/s2.png</file>
+        <file>images/s4.png</file>
+        <file>images/s8.png</file>
+        <file>images/s16.png</file>
+        <file>images/s32.png</file>
+        <file>images/s64.png</file>
+        <file>images/icons1.png</file>
+        <file>images/icons2.png</file>
+        <file>images/icons4.png</file>
+        <file>images/icons8.png</file>
+        <file>images/icons16.png</file>
+        <file>images/icons32.png</file>
+        <file>images/icons64.png</file>
+        <file>images/iconarrow.png</file>
+        <file>images/punt.png</file>
+        <file>images/A Major_F#.jpg</file>
+        <file>images/Ab Major_F.jpg</file>
+        <file>images/B Major_G#.jpg</file>
+        <file>images/Bb Major_G.jpg</file>
+        <file>images/C Major_A Minor.jpg</file>
+        <file>images/C# Major_A#.jpg</file>
+        <file>images/Cb Major_Ab.jpg</file>
+        <file>images/D Major_B Minor.jpg</file>
+        <file>images/Db Major_Bb.jpg</file>
+        <file>images/E Major_C#.jpg</file>
+        <file>images/Eb Major_C.jpg</file>
+        <file>images/F Major_D Minor.jpg</file>
+        <file>images/F# Major_D#.jpg</file>
+        <file>images/G Major_E Minor.jpg</file>
+        <file>images/Gb Major_Eb.jpg</file>
+        <file>images/2_4.png</file>
+        <file>images/3_4.png</file>
+        <file>images/4_4.png</file>
+        <file>images/6_8.png</file>
+        <file>images/sharp.png</file>
+        <file>images/flat.png</file>
+        <file>images/icursorSemifusa_3.png</file>
+        <file>images/icursorSemifusa_2.png</file>
+        <file>images/icursorSemifusa_4.png</file>
+        <file>images/icursorSemifusa_1.png</file>
+        <file>images/icursorSemicorchea_1.png</file>
+        <file>images/icursorSemicorchea_2.png</file>
+        <file>images/icursorSemicorchea_4.png</file>
+        <file>images/icursorSemicorchea_3.png</file>
+        <file>images/icursorFusa_4.png</file>
+        <file>images/icursorFusa_3.png</file>
+        <file>images/icursorFusa_2.png</file>
+        <file>images/icursorFusa_1.png</file>
+        <file>images/icursorCorchea_1.png</file>
+        <file>images/icursorCorchea_2.png</file>
+        <file>images/icursorCorchea_4.png</file>
+        <file>images/icursorCorchea_3.png</file>
+        <file>images/cursorRedonda_3.png</file>
+        <file>images/cursorRedonda_2.png</file>
+        <file>images/cursorRedonda_1.png</file>
+        <file>images/cursorRedonda_4.png</file>
+        <file>images/cursorNegra_1.png</file>
+        <file>images/cursorNegra_2.png</file>
+        <file>images/cursorNegra_4.png</file>
+        <file>images/cursorNegra_3.png</file>
+        <file>images/cursorBlanca_4.png</file>
+        <file>images/cursorBlanca_3.png</file>
+        <file>images/cursorBlanca_2.png</file>
+        <file>images/cursorBlanca_1.png</file>
+        <file>images/cursorCorchea_4.png</file>
+        <file>images/cursorCorchea_1.png</file>
+        <file>images/cursorCorchea_2.png</file>
+        <file>images/cursorCorchea_3.png</file>
+        <file>images/cursorSemicorchea_4.png</file>
+        <file>images/cursorSemicorchea_3.png</file>
+        <file>images/cursorSemicorchea_2.png</file>
+        <file>images/cursorSemicorchea_1.png</file>
+        <file>images/cursorFusa_1.png</file>
+        <file>images/cursorFusa_2.png</file>
+        <file>images/cursorFusa_3.png</file>
+        <file>images/cursorSemifusa_3.png</file>
+        <file>images/cursorSemifusa_2.png</file>
+        <file>images/cursorSemifusa_1.png</file>
+        <file>images/cursorFusa_4.png</file>
+        <file>images/cursorSemifusa_4.png</file>
+    </qresource>
+</RCC>

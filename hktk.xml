@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff title="">
+    <bar key="0" meter="FOUR4" speed="90">
+        <note pitch="48" duration="48" position="0" tone="1" volume="127"/>
+        <note pitch="36" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="48" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="60" tone="1" volume="127"/>
+        <note pitch="50" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="52" duration="12" position="84" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="84" tone="1" volume="127"/>
+    </bar>
+    <bar key="0" meter="FOUR4" speed="90">
+        <note pitch="55" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="38" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="55" duration="6" position="12" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="55" duration="6" position="18" tone="1" volume="127"/>
+        <note pitch="55" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="47" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="57" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="55" duration="24" position="48" tone="1" volume="127"/>
+        <note pitch="47" duration="12" position="48" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="60" tone="1" volume="127"/>
+        <note pitch="57" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="47" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="59" duration="12" position="84" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="84" tone="1" volume="127"/>
+    </bar>
+    <bar key="0" meter="FOUR4" speed="90">
+        <note pitch="60" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="36" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="60" duration="6" position="12" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="60" duration="6" position="18" tone="1" volume="127"/>
+        <note pitch="60" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="45" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="60" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="60" duration="12" position="48" tone="1" volume="127"/>
+        <note pitch="45" duration="12" position="48" tone="1" volume="127"/>
+        <note pitch="59" duration="12" position="60" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="60" tone="1" volume="127"/>
+        <note pitch="57" duration="6" position="72" tone="1" volume="127"/>
+        <note pitch="45" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="55" duration="12" position="78" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="84" tone="1" volume="127"/>
+        <note pitch="57" duration="6" position="90" tone="1" volume="127"/>
+    </bar>
+    <bar key="0" meter="FOUR4" speed="90">
+        <note pitch="57" duration="48" position="0" tone="1" volume="127"/>
+        <note pitch="36" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="41" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="45" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="41" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="45" duration="12" position="48" tone="1" volume="127"/>
+        <note pitch="41" duration="12" position="60" tone="1" volume="127"/>
+        <note pitch="57" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="45" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="55" duration="12" position="84" tone="1" volume="127"/>
+        <note pitch="41" duration="12" position="84" tone="1" volume="127"/>
+    </bar>
+    <bar key="0" meter="FOUR4" speed="90">
+        <note pitch="55" duration="48" position="0" tone="1" volume="127"/>
+        <note pitch="36" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="50" duration="6" position="48" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="48" tone="1" volume="127"/>
+        <note pitch="52" duration="6" position="54" tone="1" volume="127"/>
+        <note pitch="50" duration="6" position="60" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="60" tone="1" volume="127"/>
+        <note pitch="48" duration="6" position="66" tone="1" volume="127"/>
+        <note pitch="52" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="53" duration="12" position="84" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="84" tone="1" volume="127"/>
+    </bar>
+    <bar key="0" meter="FOUR4" speed="90">
+        <note pitch="52" duration="6" position="0" tone="1" volume="127"/>
+        <note pitch="38" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="50" duration="6" position="6" tone="1" volume="127"/>
+        <note pitch="50" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="50" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="47" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="52" duration="6" position="36" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="50" duration="6" position="42" tone="1" volume="127"/>
+        <note pitch="50" duration="24" position="48" tone="1" volume="127"/>
+        <note pitch="47" duration="12" position="48" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="60" tone="1" volume="127"/>
+        <note pitch="52" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="47" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="50" duration="6" position="84" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="84" tone="1" volume="127"/>
+        <note pitch="50" duration="6" position="90" tone="1" volume="127"/>
+    </bar>
+    <bar key="0" meter="FOUR4" speed="90">
+        <note pitch="50" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="36" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="48" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="41" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="48" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="45" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="48" duration="6" position="36" tone="1" volume="127"/>
+        <note pitch="41" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="48" duration="6" position="42" tone="1" volume="127"/>
+        <note pitch="48" duration="24" position="48" tone="1" volume="127"/>
+        <note pitch="45" duration="12" position="48" tone="1" volume="127"/>
+        <note pitch="41" duration="12" position="60" tone="1" volume="127"/>
+        <note pitch="50" duration="6" position="72" tone="1" volume="127"/>
+        <note pitch="45" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="52" duration="6" position="78" tone="1" volume="127"/>
+        <note pitch="50" duration="6" position="84" tone="1" volume="127"/>
+        <note pitch="41" duration="12" position="84" tone="1" volume="127"/>
+        <note pitch="48" duration="6" position="90" tone="1" volume="127"/>
+    </bar>
+    <bar key="0" meter="FOUR4" speed="90">
+        <note pitch="48" duration="96" position="0" tone="1" volume="127"/>
+        <note pitch="36" duration="12" position="0" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="12" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="24" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="36" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="48" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="60" tone="1" volume="127"/>
+        <note pitch="43" duration="12" position="72" tone="1" volume="127"/>
+        <note pitch="40" duration="12" position="84" tone="1" volume="127"/>
+    </bar>
+</staff>
